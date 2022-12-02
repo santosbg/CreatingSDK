@@ -7,11 +7,11 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
-'''
+	'''
  
 Step 2. Add the dependency
 '''gradle
 dependencies {
 	        implementation 'com.github.santosbg:creatingsdk:Tag'
 	}
- '''
+	'''
